@@ -1,0 +1,21 @@
+{
+    "name": "com.example.hello",
+    "version": "1.0.0",
+    "description": "This is the project created from the template: PhoneGap WebVR Boilerplate",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "ecosystem:cordova"
+    ],
+    "license": "Apache-2.0",
+    "displayName": "HelloWorld",
+    "dependencies": {
+        "cordova-plugin-crosswalk-webview": "2.4.0"
+    },
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-crosswalk-webview": {}
+        }
+    }
+}
